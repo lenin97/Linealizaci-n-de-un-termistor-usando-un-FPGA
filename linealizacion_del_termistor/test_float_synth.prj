@@ -1,0 +1,5 @@
+vhdl ieee_proposed "fixed_float_types_c.vhdl"
+vhdl ieee_proposed "fixed_pkg_c.vhdl"
+vhdl ieee_proposed "float_pkg_c.vhdl"
+vhdl ieee_proposed "float_synth.vhdl"
+vhdl ieee_proposed "test_float_synth.vhdl"

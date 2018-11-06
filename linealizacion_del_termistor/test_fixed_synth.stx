@@ -1,0 +1,144 @@
+Release 14.6 - xst P.68d (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.26 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.26 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_float_types_c.vhdl" in Library ieee_proposed.
+Compiling vhdl file "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl" in Library ieee_proposed.
+WARNING:HDLParsers:3350 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl" Line 1470. Null range: 0 downto 1
+WARNING:HDLParsers:3350 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl" Line 1471. Null range: 0 downto 1
+WARNING:HDLParsers:3350 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl" Line 1472. Null range: 0 downto 1
+Architecture fixed_pkg of Entity fixed_pkg is up to date.
+Compiling vhdl file "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_synth.vhdl" in Library ieee_proposed.
+Entity <fixed_synth> compiled.
+Entity <fixed_synth> (Architecture <rtl>) compiled.
+Compiling vhdl file "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" in Library ieee_proposed.
+Entity <test_fixed_synth> compiled.
+ERROR:HDLParsers:3312 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 27. Undefined symbol 'to_string'.
+ERROR:HDLParsers:1209 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 27. to_string: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 74. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 76. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 86. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 97. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 98. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 99. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 100. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 103. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 107. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 111. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 115. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 118. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 122. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 125. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 129. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 133. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 137. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 141. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 144. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 148. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 151. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 156. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 159. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 163. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 167. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 171. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 175. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 179. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 183. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 187. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 191. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 195. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 199. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 203. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 207. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 211. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 215. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 218. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 221. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 224. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 227. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 230. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 233. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 234. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 236. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 240. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 241. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 242. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 243. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 244. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 245. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 246. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 247. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 260. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 261. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 262. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 264. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 270. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 275. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 280. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 285. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 290. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 295. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 300. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 305. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 310. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 315. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 320. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 325. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 330. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 335. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 343. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 351. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 354. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 357. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 360. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 363. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 365. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 367. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 369. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 371. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 373. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 375. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 377. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 380. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 383. Wait for statement unsupported.
+ERROR:HDLParsers:3312 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 388. Undefined symbol 'to_string'.
+ERROR:HDLParsers:1209 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 388. to_string: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 390. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 396. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 402. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 409. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 416. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 423. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 430. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 431. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 432. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 433. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/test_fixed_synth.vhdl" Line 434. Wait for statement unsupported.
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 1.52 secs
+ 
+--> 
+
+Total memory usage is 224160 kilobytes
+
+Number of errors   :  101 (   0 filtered)
+Number of warnings :    4 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

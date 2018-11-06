@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3350" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl</arg>&quot; Line <arg fmt="%d" index="2">1470</arg>. Null range: <arg fmt="%d" index="3">0</arg> downto <arg fmt="%d" index="4">1</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3350" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl</arg>&quot; Line <arg fmt="%d" index="2">1471</arg>. Null range: <arg fmt="%d" index="3">0</arg> downto <arg fmt="%d" index="4">1</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3350" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/fixed_pkg_c.vhdl</arg>&quot; Line <arg fmt="%d" index="2">1472</arg>. Null range: <arg fmt="%d" index="3">0</arg> downto <arg fmt="%d" index="4">1</arg>
+</msg>
+
+<msg type="error" file="Xst" num="1547" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/selector_de_Rango_de_Voltage.vhd</arg>&quot; line <arg fmt="%d" index="2">54</arg>: Signal &lt;<arg fmt="%s" index="3">Tinmr</arg>&gt; of type real is not supported.
+</msg>
+
+</messages>
+

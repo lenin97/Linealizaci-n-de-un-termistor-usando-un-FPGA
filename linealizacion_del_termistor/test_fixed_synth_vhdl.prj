@@ -1,0 +1,4 @@
+vhdl ieee_proposed "C:\Users\Lenin\Desktop\pps_ic\linealizacion_del_termistor\linealizacion_del_termistor\fixed_float_types_c.vhdl"
+vhdl ieee_proposed "C:\Users\Lenin\Desktop\pps_ic\linealizacion_del_termistor\linealizacion_del_termistor\fixed_pkg_c.vhdl"
+vhdl ieee_proposed "C:\Users\Lenin\Desktop\pps_ic\linealizacion_del_termistor\linealizacion_del_termistor\fixed_synth.vhdl"
+vhdl ieee_proposed "C:\Users\Lenin\Desktop\pps_ic\linealizacion_del_termistor\linealizacion_del_termistor\test_fixed_synth.vhdl"

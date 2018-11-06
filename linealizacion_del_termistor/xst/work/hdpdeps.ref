@@ -1,0 +1,10 @@
+V3 4
+FL C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/selector_de_Rango_de_Voltage.vhd 2014/09/29.22:43:22 P.68d
+EN work/Selector_de_Rango 1412048843 \
+      FL C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/selector_de_Rango_de_Voltage.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611 \
+      PB ieee/MATH_REAL 1370735612 LB ieee_proposed PB ieee_proposed/fixed_pkg 1412048842 \
+      PH ieee_proposed/fixed_float_types 1412048840
+AR work/Selector_de_Rango/Behavioral 1412048844 \
+      FL C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/selector_de_Rango_de_Voltage.vhd \
+      EN work/Selector_de_Rango 1412048843

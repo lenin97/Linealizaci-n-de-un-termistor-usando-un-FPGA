@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/xst"
+elaborate
+-ifn test_float_synth.prj
+-ifmt mixed

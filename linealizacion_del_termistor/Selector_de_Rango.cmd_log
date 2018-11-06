@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/Selector_de_Rango.xst" -ofn "C:/Users/Lenin/Desktop/pps_ic/linealizacion_del_termistor/linealizacion_del_termistor/Selector_de_Rango.syr" 
